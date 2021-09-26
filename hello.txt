@@ -15,3 +15,4 @@ hello zhangjy! hello git!
 hello zhangjy! hello git! master test
 hello zhangjy! hello git! hot-fix test
 12345678901234567890
+00000000000000000000 by lhc
